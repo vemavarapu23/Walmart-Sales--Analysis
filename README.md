@@ -1,4 +1,4 @@
-# 📈 Walmart Sales Analysis Dashboard
+# Walmart Sales Analysis Dashboard
 
 ### Retail Data Analysis and Visualization using Microsoft Excel
 
